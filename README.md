@@ -4,3 +4,6 @@
 [http://slacksite.com/other/ftp.html](http://slacksite.com/other/ftp.html)
 
 
+![alternativetext](Downloads/mzftpinAzure.png)
+
+
