@@ -23,6 +23,22 @@
 ````
 curl -u "myuser:mypassword" --upload-file MyFile.txt ftp://ftp.phpnet.us/htdocs/Test --no-epsv
 ````
+### Proton command examples
+````
+# curl -u "usr1:usr1access" --upload-file eth0config ftp://ftp4proton.westus.cloudapp.azure.com --no-epsv
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   137    0     0  100   137      0      8  0:00:17  0:00:15  0:00:02    28
+100   137    0     0  100   137      0      8  0:00:17  0:00:16  0:00:01     8
+````
+
+````
+# curl -u "usr1:usr1access" --upload-file ath0config ftp://ftp4proton.westus.cloudapp.azure.com
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   749    0     0  100   749      0     70  0:00:10  0:00:10 --:--:--   153
+100   749    0     0  100   749      0     66  0:00:11  0:00:11 --:--:--    66
+````
 
 [https://www.unix.com/shell-programming-and-scripting/164786-curl-ftp-upload-success-but-no-file-exist-server.html](https://www.unix.com/shell-programming-and-scripting/164786-curl-ftp-upload-success-but-no-file-exist-server.html)
 
