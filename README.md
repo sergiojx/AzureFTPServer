@@ -3,7 +3,7 @@
 ## Active FTP vs. Passive FTP, a Definitive Explanation
 [http://slacksite.com/other/ftp.html](http://slacksite.com/other/ftp.html)
 
-
-![alternativetext](Downloads/mzftpinAzure.png)
+## Azure FileZilla Ready VM
+![picture](https://bitbucket.org/sergiojx/filezilla-ftp-server-info/downloads/mzftpinAzure.png)
 
 
