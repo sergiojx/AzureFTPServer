@@ -12,3 +12,6 @@
 
 ## Add inbound security rule NOTE
 ![picture](https://bitbucket.org/sergiojx/filezilla-ftp-server-info/downloads/inbound.png)
+
+## FileZilla Client
+![picture](https://bitbucket.org/sergiojx/filezilla-ftp-server-info/downloads/client.png)
