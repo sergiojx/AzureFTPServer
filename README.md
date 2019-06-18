@@ -7,3 +7,5 @@
 ![picture](https://bitbucket.org/sergiojx/filezilla-ftp-server-info/downloads/mzftpinAzure.png)
 
 
+## Setup Secure FTP Server on Azure Server 2016
+[https://cloudinfrastructureservices.co.uk/setup-secure-ftp-server-on-azure-server-2016/](https://cloudinfrastructureservices.co.uk/setup-secure-ftp-server-on-azure-server-2016/)
