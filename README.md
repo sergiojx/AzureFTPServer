@@ -15,3 +15,15 @@
 
 ## FileZilla Client
 ![picture](https://bitbucket.org/sergiojx/filezilla-ftp-server-info/downloads/client.png)
+
+
+## FTP with CURL
+[https://superuser.com/questions/299496/curl-not-uploading-file-to-ftp](https://superuser.com/questions/299496/curl-not-uploading-file-to-ftp)
+
+````
+curl -u "myuser:mypassword" --upload-file MyFile.txt ftp://ftp.phpnet.us/htdocs/Test --no-epsv
+````
+
+[https://www.unix.com/shell-programming-and-scripting/164786-curl-ftp-upload-success-but-no-file-exist-server.html](https://www.unix.com/shell-programming-and-scripting/164786-curl-ftp-upload-success-but-no-file-exist-server.html)
+
+[https://curl.haxx.se/libcurl/c/CURLOPT_FTP_USE_EPSV.html](https://curl.haxx.se/libcurl/c/CURLOPT_FTP_USE_EPSV.html)
