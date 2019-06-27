@@ -43,7 +43,9 @@ curl -u "myuser:mypassword" --upload-file MyFile.txt ftp://ftp.phpnet.us/htdocs/
 ````
 curl -T nano ftp://usr1:usr1access@40.78.7.148/nano
 ````
-
+````
+curl ftp://username:password@10.10.10.10/homes/back/newdir/ --ftp-create-dirs
+````
 [https://www.unix.com/shell-programming-and-scripting/164786-curl-ftp-upload-success-but-no-file-exist-server.html](https://www.unix.com/shell-programming-and-scripting/164786-curl-ftp-upload-success-but-no-file-exist-server.html)
 
 [https://curl.haxx.se/libcurl/c/CURLOPT_FTP_USE_EPSV.html](https://curl.haxx.se/libcurl/c/CURLOPT_FTP_USE_EPSV.html)
