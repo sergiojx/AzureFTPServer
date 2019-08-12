@@ -4,17 +4,17 @@
 [http://slacksite.com/other/ftp.html](http://slacksite.com/other/ftp.html)
 
 ## Azure FileZilla Ready VM
-![picture](https://bitbucket.org/sergiojx/filezilla-ftp-server-info/downloads/mzftpinAzure.png)
+![picture](https://github.com/sergiojx/AzureFTPServer/blob/master/mzftpinAzure.png)
 
 
 ## Setup Secure FTP Server on Azure Server 2016
 [https://cloudinfrastructureservices.co.uk/setup-secure-ftp-server-on-azure-server-2016/](https://cloudinfrastructureservices.co.uk/setup-secure-ftp-server-on-azure-server-2016/)
 
 ## Add inbound security rule NOTE
-![picture](https://bitbucket.org/sergiojx/filezilla-ftp-server-info/downloads/inbound.png)
+![picture](https://github.com/sergiojx/AzureFTPServer/blob/master/inbound.png)
 
 ## FileZilla Client
-![picture](https://bitbucket.org/sergiojx/filezilla-ftp-server-info/downloads/client.png)
+![picture](https://github.com/sergiojx/AzureFTPServer/blob/master/client.png)
 
 
 ## FTP with CURL
